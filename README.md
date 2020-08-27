@@ -1,1 +1,0 @@
-# ground-heat-transfer-with-groundwater-advection-
